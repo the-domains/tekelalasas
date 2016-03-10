@@ -1,0 +1,28 @@
+name: TekelalaSAS
+favicon: null
+layout_spectrum: 0.9603107161819935
+typography_spectrum: 0.6108128223568201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5865643150173128
+  lightness: 0.43803091277368367
+  saturation: 0.08106562006287277
+  rhythmicContrast: 0.2344492394477129
+purpose: []
